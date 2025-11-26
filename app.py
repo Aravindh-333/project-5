@@ -3,3 +3,6 @@ if num%2==0:
     print("Even Number")
 else:
     print("odd number")
+
+else:
+    print ("This code will be error")
